@@ -10,3 +10,4 @@ My personal solutions to coding exercises on [Exercism](https://exercism.org).
   - `collatz-conjecture`
   - `cars-assemble`
   - `raindrops`
+  - `flower-field`
