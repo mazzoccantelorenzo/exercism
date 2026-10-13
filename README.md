@@ -8,3 +8,4 @@ My personal solutions to coding exercises on [Exercism](https://exercism.org).
   - `annalyns-infiltration`
   - `weather-forecast`
   - `collatz-conjecture`
+  - `cars-assemble`
