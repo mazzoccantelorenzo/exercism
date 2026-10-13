@@ -9,3 +9,4 @@ My personal solutions to coding exercises on [Exercism](https://exercism.org).
   - `weather-forecast`
   - `collatz-conjecture`
   - `cars-assemble`
+  - `raindrops`
