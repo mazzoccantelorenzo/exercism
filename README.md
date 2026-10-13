@@ -6,3 +6,4 @@ My personal solutions to coding exercises on [Exercism](https://exercism.org).
 
 - [Go](https://exercism.org/tracks/go)
   - `annalyns-infiltration`
+  - `weather-forecast`
